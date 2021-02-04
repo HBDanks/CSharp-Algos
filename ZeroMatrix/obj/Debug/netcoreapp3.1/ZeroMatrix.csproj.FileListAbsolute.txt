@@ -1,0 +1,13 @@
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ZeroMatrix\obj\Debug\netcoreapp3.1\ZeroMatrix.csprojAssemblyReference.cache
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ZeroMatrix\obj\Debug\netcoreapp3.1\ZeroMatrix.AssemblyInfoInputs.cache
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ZeroMatrix\obj\Debug\netcoreapp3.1\ZeroMatrix.AssemblyInfo.cs
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ZeroMatrix\obj\Debug\netcoreapp3.1\ZeroMatrix.csproj.CoreCompileInputs.cache
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ZeroMatrix\bin\Debug\netcoreapp3.1\ZeroMatrix.exe
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ZeroMatrix\bin\Debug\netcoreapp3.1\ZeroMatrix.deps.json
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ZeroMatrix\bin\Debug\netcoreapp3.1\ZeroMatrix.runtimeconfig.json
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ZeroMatrix\bin\Debug\netcoreapp3.1\ZeroMatrix.runtimeconfig.dev.json
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ZeroMatrix\bin\Debug\netcoreapp3.1\ZeroMatrix.dll
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ZeroMatrix\bin\Debug\netcoreapp3.1\ZeroMatrix.pdb
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ZeroMatrix\obj\Debug\netcoreapp3.1\ZeroMatrix.dll
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ZeroMatrix\obj\Debug\netcoreapp3.1\ZeroMatrix.pdb
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ZeroMatrix\obj\Debug\netcoreapp3.1\ZeroMatrix.genruntimeconfig.cache

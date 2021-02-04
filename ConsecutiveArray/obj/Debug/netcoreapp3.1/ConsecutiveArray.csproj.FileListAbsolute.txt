@@ -1,0 +1,13 @@
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ConsecutiveArray\obj\Debug\netcoreapp3.1\ConsecutiveArray.csprojAssemblyReference.cache
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ConsecutiveArray\obj\Debug\netcoreapp3.1\ConsecutiveArray.AssemblyInfoInputs.cache
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ConsecutiveArray\obj\Debug\netcoreapp3.1\ConsecutiveArray.AssemblyInfo.cs
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ConsecutiveArray\obj\Debug\netcoreapp3.1\ConsecutiveArray.csproj.CoreCompileInputs.cache
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ConsecutiveArray\bin\Debug\netcoreapp3.1\ConsecutiveArray.exe
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ConsecutiveArray\bin\Debug\netcoreapp3.1\ConsecutiveArray.deps.json
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ConsecutiveArray\bin\Debug\netcoreapp3.1\ConsecutiveArray.runtimeconfig.json
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ConsecutiveArray\bin\Debug\netcoreapp3.1\ConsecutiveArray.runtimeconfig.dev.json
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ConsecutiveArray\bin\Debug\netcoreapp3.1\ConsecutiveArray.dll
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ConsecutiveArray\bin\Debug\netcoreapp3.1\ConsecutiveArray.pdb
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ConsecutiveArray\obj\Debug\netcoreapp3.1\ConsecutiveArray.dll
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ConsecutiveArray\obj\Debug\netcoreapp3.1\ConsecutiveArray.pdb
+C:\Users\danks\OneDrive\Desktop\portfolio\Algos\C#\ConsecutiveArray\obj\Debug\netcoreapp3.1\ConsecutiveArray.genruntimeconfig.cache
