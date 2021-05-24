@@ -8,4 +8,4 @@ A repo for praciticing c-sharp, applying tools I've learned about from other lan
 
 While this repo is for my own practice, if you'd like to participate in algo meetups or if you have any interest in participating in hackathons, reach out to me on [LinkedIn](https://linkedin.com/in/harold-danks). Please let me know that you found this repo and what you'd like to work on together.
 
-###Author: Harold Danks
+###Author: [Harold Danks](https://linkedin.com/in/harold-danks)
